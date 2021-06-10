@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(140, 156, 165);
+}
+
+.box {
+    width: 500px;
+    height: 400px;
+    background-color: rgba(168, 219, 217, 0.808);
+    margin-top: 80px;
+    margin-left: 400px;
+    border: rgb(3, 3, 3) solid 5px;
+}
+
+.wel{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.sign{
+    text-align: center;
+    width: 100px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    font-size: 30px;
+    color: black;
+    margin-top: 50px;
+    margin-left: 180px;
+    border: rgb(0, 0, 0) solid 2px;
+
+}
+
+.sign:hover{
+    background-color: rgb(126, 214, 192);
+    border: rgb(88, 135, 197) solid 2px;
+}
+
+.log{
+    text-align: center;
+    width: 100px;
+    height: 45px;
+    background-color: rgb(250, 248, 248);
+    border-radius: 5px;
+    font-size: 30px;
+    color: black;
+    margin-top: 30px;
+    margin-left: 180px;
+    border: rgb(0, 0, 0) solid 2px;
+    
+}
+
+.log:hover{
+    background-color: rgb(126, 214, 192);
+    border: rgb(88, 135, 197) solid 2px;
+}
